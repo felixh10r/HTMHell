@@ -1,40 +1,35 @@
 ---
-title: "Submitting to the quirks of HTML"
+title: "Submit to the Quirks of HTML"
 layout: layouts/advent.md
 author: "Felix Hessenberger"
-author_bio: "Short intro about yourself"
+author_bio: "Web & mobile dev at [scale](https://www.scale.at), founder of [TimeSloth](https://www.timesloth.io), dad joke expert"
 date: 2024-12-10
 author_links:
-  - label: "xy Blog"
-    url: "#"
-    link_label: "your-awesome-website.com/blog"
-  - label: "yx on ABC"
-    url: "https://abc-social-media-site"
-    link_label: "@xy"
+  - label: "scale Blog"
+    url: "https://www.scale.at/blog"
+    link_label: "scale.at/blog"
+  - label: "Felix on mastodon"
+    url: "https://mastodon.social/@felixh10r"
+    link_label: "@felixh10r"
 active: true
-intro: "<p>Short description of the post</p>"
+intro: "<p> __ TBD</p>"
 image: "advent_10"
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. In aperiam alias laborum magnam accusamus accusantium vero. Exercitationem distinctio at quisquam quibusdam rem voluptatum illo, laboriosam natus aperiam sequi, voluptate inventore!
-
-## Lorem ipsum dolor sit amet.
-
-Lorem ipsum dolor sit amet `consectetur` adipisicing elit. In aperiam alias laborum magnam accusamus accusantium vero. Exercitationem distinctio at quisquam quibusdam rem voluptatum illo, laboriosam natus aperiam sequi, voluptate inventore!
-
+It was on a cold February evening. I had been working on a client project, an order item list—nothing out of the ordinary. To adjust an item quantity, a form with a single input field, much like this one:
 
 ```html
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-	  <meta charset="utf-8" />
-	  <title>Webpage starter</title>
-  </head>
-  <body>
-    <h1>Hello World!</h1>
-  </body>
-</html>
+<form method="get" action="">
+  <label>
+    Quantity
+    <input type="number" />
+  </label>
+</form>
 ```
+
+The process was easy: open the dialog, type a number, hit enter, go on with your business.
+
+
 
 ## Lorem ipsum dolor sit amet.
 
